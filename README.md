@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @binayakdey150198
+- 👋 Hi, I’m Binayak Dey
 - 👀 I’m interested in Salesforce Development
 - 🌱 I’m currently learning Salesforce(and it is never ending process)
 - 💞️ I’m looking to collaborate on LinkedIn and GitHub
